@@ -1,16 +1,21 @@
-# flutter_bloc_crypto
+## Flutter Bloc Crypto
 
-A new Flutter project.
+Crypto Price app built using Flutter and Bloc
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Support
 
-A few resources to get you started if this is your first Flutter project:
+Reach out to me at one of the following places!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Email at <a href="mailto:wbillypn@gmail.com" target="_blank">`wbillypn@gmail.com`</a>
+- Instagram at <a href="http://instagram.com/billy.noyes" target="_blank">`@Billy.Noyes`</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="http://instagram.com/billy.noyes" target="_blank">Billy Noyes</a>.
